@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(367,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : 命令行 warning D9002: 忽略未知选项“/EH;”
+cl : 命令行 warning D9002: 忽略未知选项“/EH-”
+cl : 命令行 warning D9002: 忽略未知选项“/EHt”
+cl : 命令行 warning D9002: 忽略未知选项“/EHd”
+cl : 命令行 warning D9002: 忽略未知选项“/EH=”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH+”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+cl : 命令行 warning D9002: 忽略未知选项“/EH1”
+  2DGaussianFunction.cpp
+E:\Git\OpenGL\3rdparty_libs\includes\learnopengl/shader.h(65): warning C4101: “infoLog”: 未引用的局部变量
+E:\Git\OpenGL\3rdparty_libs\includes\learnopengl/shader.h(64): warning C4101: “success”: 未引用的局部变量
+2DGaussianFunction.cpp(118): warning C4305: “+=”: 从“double”到“float”截断
+2DGaussianFunction.cpp(122): warning C4305: “=”: 从“double”到“float”截断
+2DGaussianFunction.cpp(173): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+2DGaussianFunction.cpp(197): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+2DGaussianFunction.cpp(214): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+2DGaussianFunction.cpp(215): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+2DGaussianFunction.cpp(216): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+2DGaussianFunction.cpp(231): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+2DGaussianFunction.cpp(231): warning C4305: “-=”: 从“double”到“float”截断
+2DGaussianFunction.cpp(233): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+2DGaussianFunction.cpp(237): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+2DGaussianFunction.cpp(245): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+2DGaussianFunction.cpp(245): warning C4305: “-=”: 从“double”到“float”截断
+2DGaussianFunction.cpp(248): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+2DGaussianFunction.cpp(252): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  2DGaussianFunction.vcxproj -> E:\Git\OpenGL\2DGaussianFuction\2DGaussianFunction\2DGaussianFunction\Debug\2DGaussianFunction.exe
+  2DGaussianFunction.vcxproj -> E:\Git\OpenGL\2DGaussianFuction\2DGaussianFunction\2DGaussianFunction\Debug\2DGaussianFunction.pdb (Full PDB)
